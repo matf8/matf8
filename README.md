@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">Hey, welcome!<br><br>I'm Mathias from Uruguay &#127482;&#127486;<br><br>Here you will find some relevant information about my tech stack and some of my contributions.<br><br>If you're interested in reaching out, feel free to message me! Talk soon!</h4>
+<h4 align="left">Hey, welcome!<br><br>I'm Mathias from Uruguay<br><br>Here you will find some relevant information about my tech stack and some of my contributions.<br><br>If you're interested in reaching out, feel free to message me! Talk soon!</h4>
 
 ###
 
@@ -32,8 +32,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/matf8/matf8/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -42,7 +40,7 @@
   <a href="https://www.linkedin.com/in/mathi10/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mathias.lfernandez@gmail.com" target="_blank">
+  <a href="mailto:mathias.lfernandez@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/mathu_f" target="_blank">
