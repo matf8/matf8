@@ -1,7 +1,5 @@
 <br clear="both">
 
-<img align="right" height="173" src="https://media.licdn.com/dms/image/v2/D4D03AQGuruoADs1sBg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1686328936859?e=1747267200&v=beta&t=EsnIS3xiIKVWt0-jYihDY_tPNev-fQAy3a5ElzlBBks"  />
-
 ###
 
 <h4 align="left">Hey, welcome!<br><br>I'm Mathias from Uruguay<br><br>Here you will find some relevant information about my tech stack and some of my contributions.<br><br>If you're interested in reaching out, feel free to message me! Talk soon!</h4>
@@ -11,15 +9,15 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="45" alt="java logo"  />
+  <img src="https://spring.io/img/projects/spring-boot.svg" height="45" width="45" alt="springboot java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
+  <img src="https://github.com/user-attachments/assets/f80f8b70-e0a8-4754-ae49-1592bfbc2d17" height="45" width="45" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" width="45" alt="typescript logo"  />  
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" width="45" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="45" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="45" width="45" alt="amazonwebservices logo"  />
 </div>
 
 ###
