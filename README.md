@@ -37,12 +37,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matf8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=true&order=2&custom_title=Preferred%20Stack" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/matf8/matf8/output/snake.svg" alt="Snake animation" />
 
 ###
