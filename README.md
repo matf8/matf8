@@ -17,21 +17,15 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45" width="45" alt=".NET Core logo" />
-  <img width="12" />
-  <img src="https://spring.io/img/projects/spring-boot.svg" height="45" width="45" alt="springboot java logo"  />
-  <img width="12" />
-  <img src="https://github.com/user-attachments/assets/f80f8b70-e0a8-4754-ae49-1592bfbc2d17" height="45" width="45" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" width="45" alt="typescript logo"  />  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" width="45" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" width="45" alt="angular logo" />
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="45" width="45" alt="amazonwebservices logo"  /> 
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45" alt=".NET Core"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://spring.io/img/projects/spring-boot.svg" height="45" alt="Spring Boot"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/f80f8b70-e0a8-4754-ae49-1592bfbc2d17" height="45" alt="Node.js"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" alt="Angular"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="45" alt="AWS"/>
+</p>
 
 ###
 
