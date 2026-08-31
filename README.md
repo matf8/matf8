@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Hey, welcome!<br><br>I'm Mathias from Uruguay<br><br>Here you will find some relevant information about my tech stack and some of my contributions.<br><br>If you're interested in reaching out, feel free to message me! Talk soon!</h4>
+<h4 align="left">Hey, I'm Mathias 👋<br><br>Software Engineer from Uruguay  <img src="https://flagcdn.com/w20/uy.png" width="20" alt="Uruguay"><br><br>Building software, learning new things, and occasionally wondering why it works.<br><br>Feel free to reach out!</h4>
 
 <br clear="both">
 
@@ -30,10 +30,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/matf8/matf8/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mathi10/" target="_blank">
